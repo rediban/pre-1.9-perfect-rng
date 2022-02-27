@@ -1,0 +1,23 @@
+accessWidener   v1  named
+
+accessible class net/minecraft/entity/passive/VillagerEntity$Cost
+accessible class net/minecraft/entity/passive/VillagerEntity$TradeProvider
+accessible class net/minecraft/entity/passive/VillagerEntity$EmeraldToItem
+accessible class net/minecraft/entity/passive/VillagerEntity$EnchantedBook
+
+accessible class net/minecraft/entity/passive/VillagerEntity$ItemTradeEntry
+accessible class net/minecraft/entity/passive/VillagerEntity$ItemStackTradeEntry
+accessible class net/minecraft/entity/passive/VillagerEntity$EnchantedItemStackTradeEntry
+
+accessible field net/minecraft/entity/mob/MobEntity ambientSoundChance I
+accessible method net/minecraft/entity/mob/MobEntity getMinAmbientSoundDelay ()I
+accessible method net/minecraft/entity/Entity playSound (Lnet/minecraft/client/sound/SoundEvent;FF)V
+accessible method net/minecraft/entity/LivingEntity getSoundVolume ()F
+accessible method net/minecraft/entity/passive/VillagerEntity getSoundPitch ()F
+accessible field net/minecraft/entity/passive/VillagerEntity field_3956 I
+accessible field net/minecraft/entity/passive/VillagerEntity field_3948 Z
+accessible field net/minecraft/entity/passive/VillagerEntity willingToMate Z
+accessible field net/minecraft/entity/passive/VillagerEntity customer Lnet/minecraft/entity/player/PlayerEntity;
+accessible field net/minecraft/entity/passive/VillagerEntity field_5395 Ljava/lang/String;
+accessible field net/minecraft/entity/passive/VillagerEntity riches I
+accessible field net/minecraft/entity/Entity world Lnet/minecraft/world/World;

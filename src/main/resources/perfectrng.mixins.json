@@ -1,0 +1,17 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "io.github.marinersfan824.perfectrng.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "DebugHudMixin",
+    "EyeOfEnderMixin",
+    "MobDropsMixin",
+    "PlayerManagerMixin",
+    "SpawnPosPacketMixin",
+    "TradingMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
