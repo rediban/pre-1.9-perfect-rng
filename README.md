@@ -1,2 +1,2 @@
-#Perfect RNG Mod
+# Perfect RNG Mod
 its perfect rng lol
