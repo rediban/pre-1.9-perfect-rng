@@ -1,2 +1,2 @@
 # Perfect RNG Mod
-its perfect rng lol
+Perfect trading RNG for 1.8 adjusted for CRSG Tournament.
